@@ -1,0 +1,7 @@
+// This macro erodes particles to a single pixel.
+// It assumes foreground is black and background is white.
+
+ run ("8-bit");
+ run ("Threshold...");
+ run ("Threshold...");
+run ("Plugins");

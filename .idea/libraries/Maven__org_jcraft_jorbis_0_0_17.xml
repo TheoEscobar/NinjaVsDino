@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Maven: org.jcraft:jorbis:0.0.17">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Perso/Projet fire emblem gba/slick/lib/jinput.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Perso/Projet fire emblem gba/slick/lib/slick.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Perso/Projet fire emblem gba/slick/lib/lwjgl.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jcraft/jorbis/0.0.17/jorbis-0.0.17-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jcraft/jorbis/0.0.17/jorbis-0.0.17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
